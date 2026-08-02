@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://countdown-timer.tabutility.com/sitemap.xml
